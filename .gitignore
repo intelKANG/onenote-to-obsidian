@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 授权 token 缓存(严禁提交)
+.onenote_migrate_token.json
+onenote_migrate_token.json
+*token*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 测试输出
+test_output/
+output/
