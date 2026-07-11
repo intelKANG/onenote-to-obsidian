@@ -1,8 +1,8 @@
 # OneNote to Obsidian
 
-[中文](README.md) | [English](README.en.md)
+[中文](README.zh-CN.md) | [English](README.md)
 
-クラウドに同期された OneNote ノートブックを、Obsidian で使いやすい Markdown に移行する小さな Python ツールです。
+クラウドに同期された OneNote ノートブックを、Obsidian と互換性のあるローカル Markdown ファイルへエクスポートする小さな Python ツールです。Obsidian の保管庫を直接インポート、起動、変更することはありません。
 
 ## 主な機能
 
